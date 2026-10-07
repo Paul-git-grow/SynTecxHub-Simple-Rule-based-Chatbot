@@ -1,0 +1,14 @@
+You: hello
+Bot: Hello! Nice to meet you. How can I help you?
+You: help
+Bot: Sure! You can ask me questions and I will try to help you.
+You: how are you
+Bot: I am doing great! Thanks for asking.
+You: what is python
+Bot: Python is a high-level programming language known for its simple syntax and wide range of applications.
+You: what is ai
+Bot: AI stands for Artificial Intelligence. It enables machines to simulate human intelligence.
+You: something random
+Bot: Sorry, I don't understand that yet.
+You: bye 
+Bot: Goodbye! Have a nice day.
